@@ -17,7 +17,7 @@ Open the PROCESSOR.txt file in falstad circuit simulator at https://www.falstad.
 
 # Register map
 | name | source | destination |
--------------------------------
+|------|--------|-------------|
 | R1 | 0x1 | 0x1 |
 | R2 | 0x2 | 0x2 |
 | R3 | 0x3 | 0x3 |
